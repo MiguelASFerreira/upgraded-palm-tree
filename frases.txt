@@ -1,0 +1,35 @@
+Declarativas:
+
+O sol brilha intensamente hoje.
+O gato dormia tranquilamente no sofá.
+As flores do jardim estão desabrochando.
+A música clássica acalma a mente.
+O livro que estou lendo é muito interessante.
+Interrogativas:
+
+Você gostaria de um café?
+Que horas são?
+Qual é o seu nome?
+Onde fica a biblioteca?
+Como você está se sentindo hoje?
+Exclamativas:
+
+Que dia lindo!
+Estou tão feliz!
+Isso é incrível!
+Que maravilha!
+Não acredito que consegui!
+Imperativas:
+
+Feche a porta, por favor.
+Coma seus legumes.
+Estude para a prova.
+Seja gentil com os outros.
+Não corra na piscina.
+Optativas:
+
+Que você tenha um ótimo dia!
+Tomara que chova logo.
+Oxalá a paz reine no mundo.
+Que a sorte esteja sempre ao seu lado.
+Deus te abençoe!
